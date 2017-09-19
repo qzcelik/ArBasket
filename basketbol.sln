@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{75FFD2A7-BD2F-84A1-BDF3-BD03A93B4261}") = "basketbol", "Assembly-CSharp.csproj", "{EE2F85D2-1FA4-4BEC-70D3-E9AC8CA9A165}"
+EndProject
+Project("{75FFD2A7-BD2F-84A1-BDF3-BD03A93B4261}") = "basketbol", "Assembly-CSharp-Editor.csproj", "{623E7811-83BF-402E-AC1C-45EB3A5CE90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2F85D2-1FA4-4BEC-70D3-E9AC8CA9A165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2F85D2-1FA4-4BEC-70D3-E9AC8CA9A165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2F85D2-1FA4-4BEC-70D3-E9AC8CA9A165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2F85D2-1FA4-4BEC-70D3-E9AC8CA9A165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623E7811-83BF-402E-AC1C-45EB3A5CE90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623E7811-83BF-402E-AC1C-45EB3A5CE90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623E7811-83BF-402E-AC1C-45EB3A5CE90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623E7811-83BF-402E-AC1C-45EB3A5CE90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
